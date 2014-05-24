@@ -1,4 +1,4 @@
-package com.solium.pointsWithinASquare;
+package com.generic.pointsWithinASquare;
 
 /**
  * A point on a 2D plane is identified with its x and y coordinates

@@ -1,15 +1,15 @@
-package com.solium.main;
+package com.generic.main;
 
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import com.solium.pointsWithinASquare.Point;
-import com.solium.pointsWithinASquare.PolygonalShape;
-import com.solium.pointsWithinASquare.Utility;
-import com.solium.pointsWithinASquare.parser.PointsWithinASquareInputParser;
-import com.solium.pointsWithinASquare.parser.PointsWithinASquareInputParserException;
+import com.generic.pointsWithinASquare.Point;
+import com.generic.pointsWithinASquare.PolygonalShape;
+import com.generic.pointsWithinASquare.Utility;
+import com.generic.pointsWithinASquare.parser.PointsWithinASquareInputParser;
+import com.generic.pointsWithinASquare.parser.PointsWithinASquareInputParserException;
 
 /**
  * Class with main method for getting inputs for the geometric shape(e.g. square) and the coordinates

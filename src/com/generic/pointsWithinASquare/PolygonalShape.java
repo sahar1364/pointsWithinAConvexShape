@@ -1,4 +1,4 @@
-package com.solium.pointsWithinASquare;
+package com.generic.pointsWithinASquare;
 
 import java.util.List;
 
